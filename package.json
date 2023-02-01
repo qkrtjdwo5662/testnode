@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "testnode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrtjdwo5662/testnode.git"
+  },
+  "author": "qkrtjdwo5662",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkrtjdwo5662/testnode/issues"
+  },
+  "homepage": "https://github.com/qkrtjdwo5662/testnode#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
